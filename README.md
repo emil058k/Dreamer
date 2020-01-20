@@ -1,2 +1,2 @@
-# Dreamer
+# Eget projekt
 Mit eget spil projekt
